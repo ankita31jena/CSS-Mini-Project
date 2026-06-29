@@ -46,8 +46,6 @@ CSS-Mini-Project/
 
 ## Preview
 
-> Add a screenshot of the project as `preview.png` in the repository.
-
 ![Project Preview](preview.png)
 
 ---
